@@ -1,0 +1,5 @@
+{
+  "name": "Incident Timeline Visualizer",
+  "description": "A professional tool for creating and visualizing cybersecurity incident timelines, helping responders understand the sequence of events and points of detection.",
+  "requestFramePermissions": []
+}
